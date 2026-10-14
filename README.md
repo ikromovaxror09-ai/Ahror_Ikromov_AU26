@@ -1,1 +1,1 @@
-Data analyyics repo
+Data analytics repo
